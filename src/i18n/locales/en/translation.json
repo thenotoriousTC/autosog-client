@@ -1,0 +1,260 @@
+
+{
+  "navbar": {
+    "home": "Home",
+    "findCars": "Find Cars",
+    "about": "About",
+    "sellYourCar": "Sell Your Car",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Find Your Dream Car at the Best Price",
+    "subtitle": "Browse thousands of listings from verified sellers across the country."
+  },
+  "sections": {
+    "featuredListings": "Featured Listings",
+    "recentListings": "Recent Listings",
+    "whyChooseUs": "Why Choose AutoSog?"
+  },
+  "search": {
+    "keyword": "Search by keyword, make, model...",
+    "button": "Search",
+    "viewAll": "View All",
+    "noResults": "No listings found.",
+    "loading": "Loading listings..."
+  },
+  "about": {
+    "title": "About AutoSog",
+    "ourMission": {
+      "title": "Our Mission",
+      "description": "At AutoSog, we're dedicated to creating a transparent and efficient marketplace for buying and selling vehicles. Our platform connects car sellers with potential buyers, making the process simple, secure, and enjoyable for everyone involved."
+    },
+    "whyChooseUs": {
+      "title": "Why Choose AutoSog?",
+      "reasons": {
+        "trusted": {
+          "title": "Trusted Platform",
+          "description": "We verify all sellers and provide detailed information about each listing to ensure a safe experience."
+        },
+        "easyToUse": {
+          "title": "Easy to Use",
+          "description": "Our intuitive interface makes it simple to browse listings or create your own in just minutes."
+        },
+        "wideSelection": {
+          "title": "Wide Selection",
+          "description": "Browse thousands of vehicles from private sellers and dealers across the country."
+        },
+        "communityFocused": {
+          "title": "Community Focused",
+          "description": "We're building more than a marketplace—we're creating a community of car enthusiasts and everyday drivers."
+        }
+      }
+    },
+    "ourStory": {
+      "title": "Our Story",
+      "description": "Founded in 2023, AutoSog was born from a simple idea: car buying and selling should be straightforward and transparent. What started as a small project has grown into a platform trusted by thousands of users nationwide. We're continuously improving our services based on user feedback to provide the best experience possible."
+    },
+    "joinUs": {
+      "title": "Join Our Community",
+      "description": "Whether you're looking to sell your current vehicle or find your next dream car, AutoSog is here to help. Join thousands of satisfied users and experience a better way to buy and sell cars."
+    }
+  },
+  "features": {
+    "wideSelection": {
+      "title": "Wide Selection",
+      "description": "Thousands of verified car listings with detailed information and high-quality photos."
+    },
+    "directContact": {
+      "title": "Direct Contact",
+      "description": "Connect directly with sellers – no intermediaries or commission fees."
+    },
+    "timeSaving": {
+      "title": "Time Saving",
+      "description": "Advanced filters and search tools help you find exactly what you're looking for quickly."
+    },
+    "trustedPlatform": {
+      "title": "Trusted Platform",
+      "description": "Verified sellers and detailed listing moderation for a secure experience."
+    }
+  },
+  "cta": {
+    "title": "Ready to Sell Your Car?",
+    "subtitle": "List your car on our platform and reach thousands of potential buyers.",
+    "button": "Create a Listing"
+  },
+  "auth": {
+    "getStarted": "Get Started"
+  },
+  "language": {
+    "english": "English",
+    "french": "French"
+  },
+  "createListing": {
+    "pageTitle": "Sell Your Car",
+    "pageSubtitle": "Complete the form below to list your car for sale. The more details you provide, the better chance you'll have of selling quickly.",
+    "basics": {
+      "title": "Basic Details",
+      "description": "Enter the basic information about your vehicle",
+      "listingTitle": "Listing Title",
+      "titlePlaceholder": "e.g. 2020 Toyota Camry in Excellent Condition",
+      "titleDescription": "Create a catchy title that highlights the key features of your car.",
+      "make": "Make",
+      "selectMake": "Select make",
+      "other": "Other",
+      "model": "Model",
+      "modelPlaceholder": "e.g. Camry, Civic, Model 3",
+      "year": "Year"
+    },
+    "pricing": {
+      "title": "Pricing & Condition",
+      "description": "Provide details about the car's condition and pricing",
+      "price": "Price (DZD)",
+      "mileage": "Kilometrage (Km)",
+      "condition": "Condition",
+      "conditionDescription": "Select the condition that best describes your car.",
+      "new": "NEW",
+      "excellent": "Excellent (10)",
+      "good": "Good (7)",
+      "average": "Average (5)",
+      "poor": "Poor (3)",
+      "terrible": "Terrible (1)"
+    },
+    "vehicle": {
+      "title": "Vehicle Specifications",
+      "description": "Specify the technical details of your vehicle",
+      "fuelType": "Fuel Type",
+      "selectFuelType": "Select fuel type",
+      "fuelTypes": {
+        "petrol": "Petrol",
+        "diesel": "Diesel",
+        "electric": "Electric",
+        "hybrid": "Hybrid",
+        "plugInHybrid": "Plug-in Hybrid",
+        "lpg": "LPG",
+        "other": "Other"
+      },
+      "transmission": "Transmission",
+      "selectTransmission": "Select transmission",
+      "transmissionTypes": {
+        "manual": "Manual",
+        "automatic": "Automatic",
+        "semiAutomatic": "Semi-Automatic",
+        "cvt": "CVT"
+      },
+      "bodyType": "Body Type",
+      "selectBodyType": "Select body type",
+      "bodyTypes": {
+        "sedan": "Sedan",
+        "hatchback": "Hatchback",
+        "estate": "Estate",
+        "suv": "SUV",
+        "coupe": "Coupe",
+        "convertible": "Convertible",
+        "pickup": "Pickup",
+        "van": "Van",
+        "other": "Other"
+      },
+      "color": "Color",
+      "colorPlaceholder": "e.g. Red, Blue, Silver"
+    },
+    "description": {
+      "title": "Description",
+      "description": "Provide a detailed description of your vehicle",
+      "placeholder": "Describe your car in detail. Include information about its condition, history, special features, and why you are selling it.",
+      "advice": "Be honest and thorough. The more details you provide, the better."
+    },
+    "features": {
+      "title": "Features",
+      "description": "Select the features that your vehicle has",
+      "options": {
+        "airConditioning": "Air conditioning",
+        "powerSteering": "Power steering",
+        "powerWindows": "Power windows",
+        "abs": "ABS brakes",
+        "airbags": "Airbags",
+        "navigation": "Navigation system",
+        "bluetooth": "Bluetooth",
+        "cruiseControl": "Cruise control",
+        "heatedSeats": "Heated seats",
+        "sunroof": "Sunroof/Moonroof",
+        "parkingSensors": "Parking sensors",
+        "backupCamera": "Backup camera"
+      }
+    },
+    "photos": {
+      "title": "Photos",
+      "description": "Upload photos of your vehicle (maximum 8)"
+    },
+    "location": {
+      "title": "Location",
+      "description": "Where is the vehicle located?",
+      "city": "City",
+      "state": "State/Province (optional)"
+    },
+    "contact": {
+      "title": "Contact Information",
+      "description": "How can potential buyers reach you?",
+      "name": "Name",
+      "phone": "Phone Number",
+      "phoneSecondary": "Secondary Phone Number (Optional)",
+      "email": "Email (Optional)",
+      "sellerType": "Seller Type",
+      "selectSellerType": "Select seller type",
+      "private": "Private Seller",
+      "dealer": "Dealer"
+    },
+    "submit": {
+      "button": "List My Car",
+      "submitting": "Submitting...",
+      "notice": "Your listing will be reviewed before being published"
+    },
+    "carDetails": "Car Details"
+  },
+  "vehicle": {
+    "fuelTypes": {
+      "petrol": "Petrol",
+      "diesel": "Diesel",
+      "electric": "Electric", 
+      "hybrid": "Hybrid",
+      "pluginhybrid": "Plug-in Hybrid",
+      "lpg": "LPG",
+      "other": "Other"
+    },
+    "transmissionTypes": {
+      "manual": "Manual",
+      "automatic": "Automatic",
+      "semiautomatic": "Semi-Automatic",
+      "cvt": "CVT"
+    },
+    "bodyTypes": {
+      "sedan": "Sedan",
+      "hatchback": "Hatchback",
+      "estate": "Estate",
+      "suv": "SUV",
+      "coupe": "Coupe",
+      "convertible": "Convertible",
+      "pickup": "Pickup",
+      "van": "Van",
+      "other": "Other"
+    }
+  },
+  "footer": {
+    "description": "The premier marketplace for buying and selling cars. Find your perfect vehicle or sell your car quickly and easily.",
+    "quickLinks": "Quick Links",
+    "categories": "Categories",
+    "contactUs": "Contact Us",
+    "allRightsReserved": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service", 
+    "cookies": "Cookie Policy"
+  },
+  "admin": {
+    "login": "Admin Login",
+    "enterCredentials": "Enter your credentials to access the admin dashboard",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Login"
+  },
+  "featured": "Featured",
+  "viewDetails": "View Details"
+}

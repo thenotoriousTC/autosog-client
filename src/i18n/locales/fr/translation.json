@@ -1,0 +1,260 @@
+
+{
+  "navbar": {
+    "home": "Accueil",
+    "findCars": "Rechercher",
+    "about": "À propos",
+    "sellYourCar": "Vendre votre voiture",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Trouvez la voiture de vos rêves au meilleur prix",
+    "subtitle": "Parcourez des milliers d'annonces de vendeurs vérifiés à travers le pays."
+  },
+  "sections": {
+    "featuredListings": "Annonces en vedette",
+    "recentListings": "Annonces récentes",
+    "whyChooseUs": "Pourquoi choisir AutoSog ?"
+  },
+  "search": {
+    "keyword": "Rechercher par mot-clé, marque, modèle...",
+    "button": "Rechercher",
+    "viewAll": "Voir tout",
+    "noResults": "Aucune annonce trouvée.",
+    "loading": "Chargement des annonces..."
+  },
+  "about": {
+    "title": "À propos de AutoSog",
+    "ourMission": {
+      "title": "Notre mission",
+      "description": "Chez AutoSog, nous nous consacrons à créer un marché transparent et efficace pour l'achat et la vente de véhicules. Notre plateforme met en relation les vendeurs de voitures avec les acheteurs potentiels, rendant le processus simple, sécurisé et agréable pour toutes les personnes impliquées."
+    },
+    "whyChooseUs": {
+      "title": "Pourquoi choisir AutoSog?",
+      "reasons": {
+        "trusted": {
+          "title": "Plateforme de confiance",
+          "description": "Nous vérifions tous les vendeurs et fournissons des informations détaillées sur chaque annonce pour garantir une expérience sécurisée."
+        },
+        "easyToUse": {
+          "title": "Facile à utiliser",
+          "description": "Notre interface intuitive permet de parcourir facilement les annonces ou de créer la vôtre en quelques minutes."
+        },
+        "wideSelection": {
+          "title": "Large sélection",
+          "description": "Parcourez des milliers de véhicules de particuliers et de concessionnaires dans tout le pays."
+        },
+        "communityFocused": {
+          "title": "Axé sur la communauté",
+          "description": "Nous construisons plus qu'un marché—nous créons une communauté d'amateurs de voitures et de conducteurs ordinaires."
+        }
+      }
+    },
+    "ourStory": {
+      "title": "Notre histoire",
+      "description": "Fondée en 2023, AutoSog est née d'une idée simple: l'achat et la vente de voitures devraient être simples et transparents. Ce qui a commencé comme un petit projet est devenu une plateforme de confiance pour des milliers d'utilisateurs à l'échelle nationale. Nous améliorons continuellement nos services en fonction des commentaires des utilisateurs pour offrir la meilleure expérience possible."
+    },
+    "joinUs": {
+      "title": "Rejoignez notre communauté",
+      "description": "Que vous cherchiez à vendre votre véhicule actuel ou à trouver votre prochaine voiture de rêve, AutoSog est là pour vous aider. Rejoignez des milliers d'utilisateurs satisfaits et découvrez une meilleure façon d'acheter et de vendre des voitures."
+    }
+  },
+  "features": {
+    "wideSelection": {
+      "title": "Large sélection",
+      "description": "Des milliers d'annonces vérifiées avec des informations détaillées et des photos de haute qualité."
+    },
+    "directContact": {
+      "title": "Contact direct",
+      "description": "Connectez-vous directement avec les vendeurs – pas d'intermédiaires ni de frais de commission."
+    },
+    "timeSaving": {
+      "title": "Gain de temps",
+      "description": "Des filtres avancés et des outils de recherche vous aident à trouver exactement ce que vous cherchez rapidement."
+    },
+    "trustedPlatform": {
+      "title": "Plateforme de confiance",
+      "description": "Vendeurs vérifiés et modération détaillée des annonces pour une expérience sécurisée."
+    }
+  },
+  "cta": {
+    "title": "Prêt à vendre votre voiture ?",
+    "subtitle": "Publiez votre annonce sur notre plateforme et atteignez des milliers d'acheteurs potentiels.",
+    "button": "Créer une annonce"
+  },
+  "auth": {
+    "getStarted": "Commencer"
+  },
+  "language": {
+    "english": "Anglais",
+    "french": "Français"
+  },
+  "createListing": {
+    "pageTitle": "Vendre votre voiture",
+    "pageSubtitle": "Complétez le formulaire ci-dessous pour mettre votre voiture en vente. Plus vous fournissez de détails, plus vous aurez de chances de vendre rapidement.",
+    "basics": {
+      "title": "Détails de base",
+      "description": "Entrez les informations de base sur votre véhicule",
+      "listingTitle": "Titre de l'annonce",
+      "titlePlaceholder": "par ex. Toyota Camry 2020 en excellent état",
+      "titleDescription": "Créez un titre accrocheur qui met en avant les caractéristiques principales de votre voiture.",
+      "make": "Marque",
+      "selectMake": "Sélectionner une marque",
+      "other": "Autre",
+      "model": "Modèle",
+      "modelPlaceholder": "par ex. Camry, Civic, Model 3",
+      "year": "Année"
+    },
+    "pricing": {
+      "title": "Prix et état",
+      "description": "Fournissez des détails sur l'état de la voiture et son prix",
+      "price": "Prix (DZD)",
+      "mileage": "Kilométrage (Km)",
+      "condition": "État",
+      "conditionDescription": "Sélectionnez l'état qui décrit le mieux votre voiture.",
+      "new": "NEUF",
+      "excellent": "Excellent (10)",
+      "good": "Bon (7)",
+      "average": "Moyen (5)",
+      "poor": "Médiocre (3)",
+      "terrible": "Terrible (1)"
+    },
+    "vehicle": {
+      "title": "Spécifications du véhicule",
+      "description": "Précisez les détails techniques de votre véhicule",
+      "fuelType": "Type de carburant",
+      "selectFuelType": "Sélectionner le type de carburant",
+      "fuelTypes": {
+        "petrol": "Essence",
+        "diesel": "Diesel",
+        "electric": "Électrique",
+        "hybrid": "Hybride",
+        "plugInHybrid": "Hybride rechargeable",
+        "lpg": "GPL",
+        "other": "Autre"
+      },
+      "transmission": "Transmission",
+      "selectTransmission": "Sélectionner la transmission",
+      "transmissionTypes": {
+        "manual": "Manuelle",
+        "automatic": "Automatique",
+        "semiAutomatic": "Semi-automatique",
+        "cvt": "CVT"
+      },
+      "bodyType": "Type de carrosserie",
+      "selectBodyType": "Sélectionner le type de carrosserie",
+      "bodyTypes": {
+        "sedan": "Berline",
+        "hatchback": "Hayon",
+        "estate": "Break",
+        "suv": "SUV",
+        "coupe": "Coupé",
+        "convertible": "Cabriolet",
+        "pickup": "Pick-up",
+        "van": "Fourgon",
+        "other": "Autre"
+      },
+      "color": "Couleur",
+      "colorPlaceholder": "par ex. Rouge, Bleu, Argent"
+    },
+    "description": {
+      "title": "Description",
+      "description": "Fournissez une description détaillée de votre véhicule",
+      "placeholder": "Décrivez votre voiture en détail. Incluez des informations sur son état, son historique, ses caractéristiques spéciales et la raison pour laquelle vous la vendez.",
+      "advice": "Soyez honnête et précis. Plus vous fournissez de détails, mieux c'est."
+    },
+    "features": {
+      "title": "Équipements",
+      "description": "Sélectionnez les équipements dont dispose votre véhicule",
+      "options": {
+        "airConditioning": "Climatisation",
+        "powerSteering": "Direction assistée",
+        "powerWindows": "Vitres électriques",
+        "abs": "Freins ABS",
+        "airbags": "Airbags",
+        "navigation": "Système de navigation",
+        "bluetooth": "Bluetooth",
+        "cruiseControl": "Régulateur de vitesse",
+        "heatedSeats": "Sièges chauffants",
+        "sunroof": "Toit ouvrant/panoramique",
+        "parkingSensors": "Capteurs de stationnement",
+        "backupCamera": "Caméra de recul"
+      }
+    },
+    "photos": {
+      "title": "Photos",
+      "description": "Téléchargez des photos de votre véhicule (maximum 8)"
+    },
+    "location": {
+      "title": "Localisation",
+      "description": "Où se trouve le véhicule?",
+      "city": "Ville",
+      "state": "État/Province (optionnel)"
+    },
+    "contact": {
+      "title": "Informations de contact",
+      "description": "Comment les acheteurs potentiels peuvent-ils vous contacter?",
+      "name": "Nom",
+      "phone": "Numéro de téléphone",
+      "phoneSecondary": "Numéro de téléphone secondaire (Optionnel)",
+      "email": "Email (Optionnel)",
+      "sellerType": "Type de vendeur",
+      "selectSellerType": "Sélectionner le type de vendeur",
+      "private": "Particulier",
+      "dealer": "Professionnel"
+    },
+    "submit": {
+      "button": "Publier mon annonce",
+      "submitting": "Envoi en cours...",
+      "notice": "Votre annonce sera examinée avant d'être publiée"
+    },
+    "carDetails": "Détails du véhicule"
+  },
+  "vehicle": {
+    "fuelTypes": {
+      "petrol": "Essence",
+      "diesel": "Diesel",
+      "electric": "Électrique", 
+      "hybrid": "Hybride",
+      "pluginhybrid": "Hybride rechargeable",
+      "lpg": "GPL",
+      "other": "Autre"
+    },
+    "transmissionTypes": {
+      "manual": "Manuelle",
+      "automatic": "Automatique",
+      "semiautomatic": "Semi-automatique",
+      "cvt": "CVT"
+    },
+    "bodyTypes": {
+      "sedan": "Berline",
+      "hatchback": "Hayon",
+      "estate": "Break",
+      "suv": "SUV",
+      "coupe": "Coupé",
+      "convertible": "Cabriolet",
+      "pickup": "Pick-up",
+      "van": "Fourgon",
+      "other": "Autre"
+    }
+  },
+  "footer": {
+    "description": "Le premier marché pour l'achat et la vente de voitures. Trouvez votre véhicule idéal ou vendez votre voiture rapidement et facilement.",
+    "quickLinks": "Liens rapides",
+    "categories": "Catégories",
+    "contactUs": "Contactez-nous",
+    "allRightsReserved": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation", 
+    "cookies": "Politique de cookies"
+  },
+  "admin": {
+    "login": "Connexion administrateur",
+    "enterCredentials": "Entrez vos identifiants pour accéder au tableau de bord d'administration",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "loginButton": "Connexion"
+  },
+  "featured": "En vedette",
+  "viewDetails": "Voir les détails"
+}
